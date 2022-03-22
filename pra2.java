@@ -1,5 +1,9 @@
 public class pra2 {
 	public static void main( String[] args ) {
-        System.out.println"Hello World" );
+        int cnt = 0;
+        while( i < 100 ) {
+            System.out.println"Hello World" );
+            cnt++;
+        }
     }
 }
